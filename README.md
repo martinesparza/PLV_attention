@@ -1,7 +1,7 @@
 # PLV_attention
 Code from Esparza-Iaizzo et al,. 2022: 'Long-range alpha-synchronisation as control signal for BCI: A feasibility study'
 
-[Instructiosn go here]
+[Instructions go here]
 
 ***** 
 
