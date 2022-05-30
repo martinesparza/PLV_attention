@@ -1,7 +1,7 @@
 # PLV_attention
 Code from Esparza-Iaizzo et al,. 2022: 'Long-range alpha-synchronisation as control signal for BCI: A feasibility study'
 
-[Instructions go here]
+Data remains private until the manuscript is accepted by a journal. The following code serves as example. Script with Figure names recreate the corresponding figures, whereas Stats figures compute the null distribution of each figure. Bear in mind, these scripts build on FieldTrip (FieldTrip, RRID: SCR_004849). 
 
 ***** 
 
